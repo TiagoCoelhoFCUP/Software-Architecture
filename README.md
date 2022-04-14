@@ -5,6 +5,7 @@ This repository is organized into 3 different sections:
 <ul>
   <li> T1 - First Project: Robocode Combat Robot </li>
   <li> T2 - Second Project: Ride Sharing App </li>
+  <li> T3 - Third Project: Ride Sharing App Web Interface </li>
 </ul>
   
   
